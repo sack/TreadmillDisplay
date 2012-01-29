@@ -5,7 +5,7 @@ import serial
 import time
 import TwSearch
 
-ser = serial.Serial('/dev/tty.usbmodemfd121', 19200)
+ser = serial.Serial('/dev/tty.usbmodemfd121', 115200)
 
 
 
